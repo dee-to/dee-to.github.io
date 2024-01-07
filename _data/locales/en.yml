@@ -18,9 +18,9 @@ tabs:
 
 # the text displayed in the search bar & search results
 search:
-  hint: search
-  cancel: Cancel
-  no_results: Oops! No results found.
+  hint: 검색
+  cancel: 취소
+  no_results: 그런 검색 결과는 없는 것 같아요.
 
 panel:
   lastmod: Recently Updated
@@ -30,53 +30,53 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
+    template: 이 게시물은 저작권자의 :LICENSE_NAME 라이센스를 따르도록 되어있어요.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
   brief: Some rights reserved.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    명시되지 않는 한 이 사이트의 블로그 게시물은 작성자의
+    Creative Commons Attribution 4.0 International(CC BY 4.0) 라이선스에 따라 사용이 허가되었어요.
 
 meta: Using the :THEME theme for :PLATFORM.
 
 not_found:
-  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statment: 존재하지 않는 URL인 것 같네요.
 
 notification:
-  update_found: A new version of content is available.
-  update: Update
+  update_found: 이 게시물의 최신 버전을 사용할 수 있어요!
+  update: 업데이트
 
 # ----- Posts related labels -----
 
 post:
   written_by: By
-  posted: Posted
-  updated: Updated
+  posted: 첫 포스팅 날짜 - 
+  updated: 마지막 업데이트 - 
   words: words
   pageview_measure: views
   read_time:
-    unit: min
-    prompt: read
-  relate_posts: Further Reading
-  share: Share
+    unit: 분ㅤ
+    prompt: 소요돼요.
+  relate_posts: 이것도 읽어보시겠어요?
+  share: 공유
   button:
-    next: Newer
-    previous: Older
+    next: 더 최신 게시물
+    previous: 이전 게시물
     copy_code:
-      succeed: Copied!
+      succeed:  복사되었어요!
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: 링크 복사
+      succeed: 복사되었어요!
 
 # Date time format.
 # See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
 df:
   post:
-    strftime: "%b %e, %Y"
-    dayjs: "ll"
+    strftime: "%Y/%m/%d"
+    dayjs: "YYYY/MM/DD"
   archives:
     strftime: "%b"
     dayjs: "MMM"
@@ -84,8 +84,8 @@ df:
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: 개의 카테고리와
+    plural: 개의 카테고리와
   post_measure:
-    singular: post
-    plural: posts
+    singular: 개의 포스트가 있어요.
+    plural: 개의 포스트가 있어요.
