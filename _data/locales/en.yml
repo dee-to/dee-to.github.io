@@ -14,7 +14,6 @@ tabs:
   categories: Categories
   tags: Tags
   archives: Archives
-  about: About
 
 # the text displayed in the search bar & search results
 search:
@@ -29,10 +28,11 @@ panel:
 
 copyright:
   # Shown at the bottom of the post
-  license:
+  license: 
     template: 이 게시물은 저작권자의 :LICENSE_NAME 라이센스를 따르도록 되어있어요.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
+    
 
   # Displayed in the footer
   brief: Some rights reserved.

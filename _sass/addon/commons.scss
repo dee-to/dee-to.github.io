@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "DearDefault";
+  src: local("DearDefault");
+}
+
+
 /*
   The common styles
 */
@@ -34,7 +40,8 @@ body {
     env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: $font-family-base;
+  //font-family: $font-family-base;
+  font-family: DearDefault;
 }
 
 /* --- Typography --- */
