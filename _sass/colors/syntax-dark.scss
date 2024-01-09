@@ -5,9 +5,11 @@
 @mixin dark-syntax {
   --language-border-color: #2d2d2d;
   --highlight-bg-color: #151515;
-  --highlighter-rouge-color: #c9def1;
+  //--highlighter-rouge-color: #c9def1;
+  --highlighter-rouge-color: #151515;
   --highlight-lineno-color: #808080;
-  --inline-code-bg: #323238;
+  //--inline-code-bg: #323238;
+  --inline-code-bg: #FFFFFF;
   --code-color: #b0b0b0;
   --code-header-text-color: #6a6a6a;
   --code-header-muted-color: #353535;
