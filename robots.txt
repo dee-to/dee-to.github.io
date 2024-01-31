@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /about
+Disallow: /archives
+
+Sitemap: https://dee-to.github.io/sitemap.xml
