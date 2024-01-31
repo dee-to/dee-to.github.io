@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'D2Coding';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'omyu_pretty';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/omyu_pretty.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /*
 * The syntax highlight.
 */
@@ -58,6 +72,7 @@ html {
   padding-bottom: 0.75rem;
 
   pre {
+    font-family: D2Coding;
     margin-bottom: 0;
     font-size: $code-font-size;
     line-height: 1.4rem;
@@ -95,14 +110,17 @@ html {
 } /* .highlight */
 
 code {
+  font-family: omyu_pretty; //코드 하이라이트 폰트
   -webkit-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
   color: var(--code-color);
 
   &.highlighter-rouge {
-    font-size: $code-font-size;
-    padding: 3px 5px;
+    //font-size: $code-font-size;
+    font-size: 1.00rem;
+    //padding: 3px 5px;
+    padding: 1px 3px;
     word-break: break-word;
     border-radius: 4px;
     background-color: var(--inline-code-bg);
