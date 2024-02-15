@@ -137,7 +137,8 @@ delete[] array2;
 
 그러자, 우리 머리좋은 C++의 아버지 Bjarne Stroustru가 생각합니다.<br>
 
-### *"그럼, 지우는걸 스택에게 맡기면 되는거 아닐까?"*
+<span style="font-size:1.25em;"> *"그럼, 지우는걸 스택에게 맡기면 되는거 아닐까?"* </span>
+
 <br><br><br><br><br><br><br><br>
 
 
