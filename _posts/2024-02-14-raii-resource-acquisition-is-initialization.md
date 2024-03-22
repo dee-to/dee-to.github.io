@@ -131,8 +131,8 @@ delete[] array2;
 당연한 소리지만, array2는 할당을 해제해줘야해요. 동적 할당된 인스턴스들이 위치한 힙메모리는, 전적으로 프로그래머에게 그 관리 책임을 위임하기 때문이에요.
 <br>
 
-![ttalkkak](https://lh3.googleusercontent.com/u/1/drive-viewer/AEYmBYQxB75V9gmml9o4_W0lJeFrJaJxJoe8BmKGNLvfTUvJmTBHF1Ph92I8bgsTgGEZZWG96NhN3XDTerEozi4FUxg_qwaltQ=w1240-h575)
-
+![img](https://i.ibb.co/fQYWdFD/heapstack.webp){: width="60%" height="60%"}
+	
 <br><br>
 
 그러자, 우리 머리좋은 C++의 아버지 Bjarne Stroustru가 생각합니다.<br>
