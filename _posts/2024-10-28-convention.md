@@ -12,7 +12,7 @@ title: 자바/코틀린 코드 컨벤션
 왜인가요? <br>
 언어적인 규약이 잘 짜여져 있어야 사회 구성원들이 무언가를 요구하거나 정보를 교환하기 원할하기 때문이에요. <br><br>
 
-<center><img src="https://i.namu.wiki/i/EcedZevhEQkYjKL3USrgCWlm6IOmSs5BCLmE4eFNp2zLIK-Oogt5gKmtFwWC3UMCug5vwwkijrr2s4zrNv1hBLczV5ZZ0jqNgsKYEyFsmJTFYYEsA3zscJH5LZuG3YZiEtFwJaYDpxwhmWzUrn0ZVw.webp"></center>
+<center><img src="https://i.namu.wiki/i/EcedZevhEQkYjKL3USrgCWlm6IOmSs5BCLmE4eFNp2zLIK-Oogt5gKmtFwWC3UMCug5vwwkijrr2s4zrNv1hBLczV5ZZ0jqNgsKYEyFsmJTFYYEsA3zscJH5LZuG3YZiEtFwJaYDpxwhmWzUrn0ZVw.webp" alt=""></center>
 
 *수박을 멋대로 몽미라고 부르면 안되겠죠?*
 <br><br>
