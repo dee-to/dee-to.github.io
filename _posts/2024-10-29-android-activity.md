@@ -39,7 +39,7 @@ title: Android Activity
 그 중 첫 번째가 바로 `매니페스트(Manifest)`에요.<br><br>
 
 
-<center><img src="https://i.ibb.co/1q7zhk4/2024-10-28-9-37-00.png"></center>
+<center><img src="https://i.ibb.co/1q7zhk4/2024-10-28-9-37-00.png" alt=""></center>
 <br><br>
 
 매니페스트는 영어로 `명백한`이라는 의미를 담고 있습니다.<br>
@@ -79,7 +79,7 @@ C언어로 만들어진 코드들을 실행하기 위해서는 다음과 같은 
 
 두 번째는 `Intent`입니다.<br>
 
-<center><img src="https://i.ibb.co/rxZzMgB/2024-10-28-10-01-30.png"></center>
+<center><img src="https://i.ibb.co/rxZzMgB/2024-10-28-10-01-30.png" alt=""></center>
 <br><br>
 
 Intent는 그 의미 그대로 `어떠한 동작의 의도`를 가지고 있습니다.<br>
@@ -124,7 +124,7 @@ startActivity(sendIntent)
 그리고 이를 활용해 액티비티의 수명이 관리되는 과정을 `안드로이드 생명주기`이라고 부릅니다.<br><br><br>
 
 
-<center><img src="https://i.ibb.co/2js63H7/activity-lifecycle.png"></center>
+<center><img src="https://i.ibb.co/2js63H7/activity-lifecycle.png" alt=""></center>
 
 <br><br>
 - onCreate() <br>
